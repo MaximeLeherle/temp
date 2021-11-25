@@ -1,4 +1,4 @@
-# temp
+# QABertEngine
 
 ## For create the environement you just need to us the following command
 
@@ -33,6 +33,6 @@ question is a string representing the question for which we want to find the mos
 n is the number of context we want to get.
 And formated_context is the dataset variable defined in the first line.
 
-# code architecture
+## code architecture
 
 The archiving of the code is explained in the first part of the report in the 'doc/' folder.
